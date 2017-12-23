@@ -1,0 +1,45 @@
+body{
+    background-color: silver;
+}
+.textError{
+    color: red;
+    font-size: 1.8vh;
+    font-style: italic;
+}
+h1{
+    font-size : 3vh;
+    font-weight: bold;
+}
+h2{
+    font-size : 2.4vh;
+    font-weight: bold;
+}
+h3{
+    font-size : 2vh;
+    margin-bottom: 0;
+}
+h4{
+    font-size: 1.6vh;
+    margin-bottom: 0;
+}
+select{
+    margin-left: 0;
+    font-weight: normal;
+}
+.summary{
+    font-weight: bold;
+    font-size: 20px;
+}
+#summaryID{
+    font-size: 2vh;
+}
+a input, button{
+    text-decoration: none;
+    color:black;
+}
+.postalCode{
+    -moz-appearance: textfield;
+}
+input[type=number] {
+    ;
+}
